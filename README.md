@@ -13,6 +13,8 @@
 
 ## Tools and Frameworks
 ![vscode](https://skillicons.dev/icons?i=vscode)
+![flask](https://skillicons.dev/icons?i=flask)
+![rabbitmq](https://skillicons.dev/icons?i=rabbitmq)
 
 ## Other Skills
 ![BOT](https://skillicons.dev/icons?i=bots)
