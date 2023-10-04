@@ -4,7 +4,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paulorog/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Melo%20Lima#2606)
 
-![Israel Leighton GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RealMeloLima&show_icons=true&theme=dracula)
+![Israel Leighton GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leightonisrael&show_icons=true&theme=dracula)
 
 ## Programming Languages and Developer skills
 ![Python](https://skillicons.dev/icons?i=py)
