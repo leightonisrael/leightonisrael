@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, you can call me Israel, I'm 20 years old and currently living in Brazil and studying IT🖥️
 
-<!--
-**leightonisrael/leightonisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact me here
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paulorog/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Melo%20Lima#2606)
 
-Here are some ideas to get you started:
+![Paulo Rogério GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RealMeloLima&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages and Developer skills
+![Python](https://skillicons.dev/icons?i=py)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=javascript)
+
+## Tools and Frameworks
+![vscode](https://skillicons.dev/icons?i=vscode)
+
+## Other Skills
+![BOT](https://skillicons.dev/icons?i=bots)
+![BOT](https://skillicons.dev/icons?i=github)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RealMeloLima&theme=blue-green)
