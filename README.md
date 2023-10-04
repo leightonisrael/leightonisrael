@@ -2,7 +2,6 @@
 
 ## Contact me here
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)]((https://br.linkedin.com/in/israel-hall-leighton))
-[![Telegram](https://skillicons.dev/icons?i=telegram)]((https://t.me/IsraelLeighton))
 
 ![Israel Leighton GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leightonisrael&show_icons=true&theme=dracula)
 
