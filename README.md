@@ -1,8 +1,8 @@
 # Hi there, you can call me Israel, I'm 20 years old and currently living in Brazil and studying IT🖥️
 
 ## Contact me here
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/paulorog/](https://br.linkedin.com/in/israel-hall-leighton))
-[![Telegram](https://skillicons.dev/icons?i=telegram)]([https://discord.com/users/Melo%20Lima#2606](https://t.me/IsraelLeighton))
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)]((https://br.linkedin.com/in/israel-hall-leighton))
+[![Telegram](https://skillicons.dev/icons?i=telegram)]((https://t.me/IsraelLeighton)))
 
 ![Israel Leighton GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leightonisrael&show_icons=true&theme=dracula)
 
