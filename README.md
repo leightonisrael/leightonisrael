@@ -1,4 +1,4 @@
-# Hi there, you can call me Israel, I'm 21 years old and currently living in Brazil and studying IT🖥️
+# Hi there, you can call me Israel, I'm 22 years old and currently living in Brazil and studying IT🖥️
 
 ## Contact me here
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)]((https://br.linkedin.com/in/israel-hall-leighton))
