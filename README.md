@@ -229,7 +229,7 @@ Security is architecture, code, infrastructure, logs, process and impact.
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/leightonisrael/leightonisrael/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
